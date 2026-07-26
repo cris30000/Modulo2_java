@@ -1,3 +1,4 @@
+package ejemplos;
 public class Perro {
 // Atributos del perro -> son las características que definen a un perro
    
